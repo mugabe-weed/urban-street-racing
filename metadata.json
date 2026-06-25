@@ -1,0 +1,6 @@
+{
+  "name": "Urban Street Racing",
+  "description": "A high-performance 3D street racing game with realistic driving physics, AI traffic, police chases, weather cycles, and car customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
